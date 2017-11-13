@@ -1,0 +1,656 @@
+{
+
+    "title": {
+
+        "background": {
+
+            "color": "#4d0026",
+
+            "opacity": 50,
+
+            "url": null
+
+        },
+
+        "text": {
+
+            "headline": "Miriam Yeung's TimeLineJS<br>歌者杨千嬅 ",
+
+            "text": " <br>杨千嬅：香港女歌手、女演員，為香港集「歌后」及「影后」於一身的女藝人。"
+
+        },
+
+        "media": {
+
+            "url": "http://img5.iqilu.com/c/u/2016/1221/1482284318202.jpg",
+
+            "thumb": "http://img5.iqilu.com/c/u/2016/1221/1482284318202.jpg"
+
+        }
+
+    },
+
+    "events": [{
+
+            "start_date": {
+
+                "year": "1995",
+
+                "month": "",
+
+                "day": "",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "url": "http://img.67.com/upload/images/2012/10/10/eWFuZ2hhbjEzNDk4MzIwNTU=.jpg",
+
+                "thumb": "http://img.67.com/upload/images/2012/10/10/eWFuZ2hhbjEzNDk4MzIwNTU=.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "晉身樂壇",
+
+                "text": "楊千嬅參加由香港無綫電視及華星唱片合辦的第十四屆新秀歌唱大賽，憑自選歌曲《等得太久》獲得銅獎(該屆金獎得主為陳奕迅)後晉身樂壇。"
+
+            },
+
+            "type": "overview"
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "1996",
+
+                "month": "6",
+
+                "day": "",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "url": "http://image11.m1905.cn/uploadfile/s2010/1007/20101007115630777.jpg",
+
+                "thumb": "http://image11.m1905.cn/uploadfile/s2010/1007/20101007115630777.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《狼来了》",
+
+                "text": "楊千嬅推出首張個人專輯《狼來了》，累計銷量達金唱片標準。在當年的樂壇頒獎禮中，楊千嬅奪得多個新人獎項。"
+
+            },
+
+            "type": "overview"
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "1997",
+
+                "month": "6",
+
+                "day": "13",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "credit": "",
+
+                "url": "https://upload.wikimedia.org/wikipedia/zh/7/7a/%E6%A5%8A%E5%8D%83%E5%AC%85_%E7%9B%B4%E8%A6%BA.jpg",
+
+                "thumb": "https://upload.wikimedia.org/wikipedia/zh/7/7a/%E6%A5%8A%E5%8D%83%E5%AC%85_%E7%9B%B4%E8%A6%BA.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《直覺》",
+
+                "text": "第二張專輯《直覺》中一共收錄了11首歌，當中包括了《直覺》、《友誼萬歲》、《再見二丁目》等，而其主打歌之一的《再見二丁目》在當年深受大眾歡迎，并為其歌唱事業製造了踏腳石，使她首次奪得無線電視勁歌金榜的冠軍及勁歌金曲第三季季選的歌曲獎。 "
+
+            },
+
+            "type": "overview"
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2000",
+
+                "month": "9",
+
+                "day": "",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "url": "http://img2.mtime.cn/up/128/996128/5F2C4291-082F-44F6-9AEF-06D2450ABFC7_500.jpg",
+
+                "thumb": "http://img2.mtime.cn/up/128/996128/5F2C4291-082F-44F6-9AEF-06D2450ABFC7_500.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Play it Loud，Kiss me Soft》",
+
+                "text": "《Play it Loud》至今仍然是香港主流樂壇一張難得的專輯，因為曲風充滿實驗性，更找來獨立電音樂團Slow Tech Ridden為兩首作品編曲。《Kiss me Soft》內的《少女的祈禱》是她首支四台冠軍歌曲，亦被視為她的首本名曲。同年，楊千嬅還舉行了首次個人演唱會《My Concert花樣千嬅演唱會》。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2001",
+
+                "month": "9",
+
+                "day": "22",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://www.52desktop.cn/upimg/allimg/080217/12032115240F951525.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Miriam》",
+
+                "text": "推出專輯《Miriam》，銷情不俗，是《IFPI香港唱片銷量大獎》十大最高銷量唱片之一。其中《野孩子》，《假如讓我說下去》口碑不俗。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2002",
+
+                "month": "11",
+
+                "day": "22",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "url": "http://www.52desktop.cn/upimg/allimg/080217/120321145L05LZ2.jpg",
+
+                "thumb": "http://www.52desktop.cn/upimg/allimg/080217/120321145L05LZ2.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Miriam's Music Box》",
+
+                "text": "《Miriam's Music Box》是楊千嬅於2002年11月22日推出的粵語專輯。唱片以童話幻滅為主題。填詞人林夕指《笑中有淚》為當時最為打動他的作品。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2004",
+
+                "month": "6",
+
+                "day": "25",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://photo.sohu.com/2004/07/01/67/Img220796745.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《電光幻影》",
+
+                "text": "本專輯是千嬅很重視的一張專輯，更首次擔任唱片監製，整張唱片口碑比前張提升不少，更製作出大熱金曲《小城大事》，另外《處處吻》、《煉金術》也是流行熱播歌曲，成績不俗。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2005",
+
+                "month": "4",
+
+                "day": "22",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://image2.sina.com.cn/ent/y/d/2005-08-04/U996P28T3D800745F329DT20050804112653.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Single》",
+
+                "text": "指「單身」，以歌曲代表女性的心情，如《長信不如短訊》同《烈女》。唱片銷量不俗，成為2005年最暢銷十張的本地唱片之一，更獲得演藝動力大獎2005—最突出唱片提名。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2006",
+
+                "month": "12",
+
+                "day": "15",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "https://upload.wikimedia.org/wikipedia/zh/a/ad/Unlimited.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Unlimited》",
+
+                "text": "唱片取名為《Unlimited》，是想傳遞生有限、活無限的信息。封面構思來自手塚治蟲的漫畫《藍寶石王子》，左邊的男角本是女兒身，一方面希望擁有自己的感情生活，同時又望有男仔氣概來捍衛家園，就像現今女性不但要要照顧家庭，更要獨立自主，充滿責任感，表達出女人有獨立與及溫柔的一面。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2009",
+
+                "month": "10",
+
+                "day": "16",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://i2.sinaimg.cn/edu/2012/0606/U3834P42DT20120606181011.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《原來過得很快樂》",
+
+                "text": "此專輯令楊千嬅成為首位以兩首歌《我在橋上看風景》及《原來過得很快樂》獲得《叱吒普選》連續八星期（第38週至第45週）冠軍歌的歌手。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2011",
+
+                "month": "03",
+
+                "day": "08",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://img4.cache.netease.com/ent/2011/3/10/2011031013282092280.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《Ready Or Not》",
+
+                "text": "是楊千嬅的第三張國語專輯，於2011年3月8日推出。專輯宣傳口號為「愛要及時 Are You Ready」。此專輯的歌曲主要圍繞女性化和愛情的題材，例如《女人三十》、《醒了》等等，並收錄了三首主打歌的MV。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2012",
+
+                "month": "01",
+
+                "day": "18",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://pic.enorth.com.cn/0/09/15/57/9155746_102900.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《火鳥》",
+
+                "text": "碟內大部分歌曲都是以不同的雀鳥為名，概念統一，而且歌曲質素得到不少坊間樂評人的一致讚賞，是千嬅近年其中一張大獲好評的唱片。"
+
+            }
+
+        },
+
+        {
+
+            "start_date": {
+
+                "year": "2012",
+
+                "month": "03",
+
+                "day": "16",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://a2.att.hudong.com/40/30/19300235817704132470308316315_950.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "春嬌與志明 (單曲)",
+
+                "text": "《春嬌與志明》系彭浩翔於2012年執導的香港電影。為《志明與春嬌》的續集。由楊千嬅、余文樂領銜主演。於2012年3月16日，推出兩位主角為電影演繹的宣傳曲單曲碟。其中余文樂演繹的氾濫為原唱曲婉婷Drenched的國語版。而楊千嬅演繹的沒有目的地愛了更以余春嬌之名派台。"
+
+            }
+
+        },
+          {
+
+            "start_date": {
+
+                "year": "2012",
+
+                "month": "03",
+
+                "day": "16",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://image11.m1905.cn/mdb/uploadfile/2017/0420/thumb_1_283_390_20170420112803701767.jpg"
+
+            },
+
+            "text": {
+
+                "headline": "《春嬌救志明》 電影原聲大碟",
+
+                "text": "《春嬌救志明》（英语：Love off the cuff），是2017年香港愛情電影，为2010年電影《志明與春嬌》的第三部。由彭浩翔導演、尹志文、陸以心編劇，楊千嬅、余文樂領銜主演，秦沛特別演出，蔣夢婕主演，2017年4月27日、28日在香港和中国大陆上映。"
+
+            }
+
+        },
+
+        {
+
+            "background": {
+
+                "color": "#4d0026",
+
+                "opacity": 50,
+
+                "url": null
+
+            },
+
+            "start_date": {
+
+                "year": "2017",
+
+                "month": "04",
+
+                "day": "27",
+
+                "hour": "",
+
+                "minute": "",
+
+                "second": "",
+
+                "millisecond": "",
+
+                "format": ""
+
+            },
+
+            "media": {
+
+                "caption": "",
+
+                "url": "http://gx.people.com.cn/mediafile/201012/02/F201012021026341686100330.jpg",
+
+                "thumb": ""
+
+            },
+
+            "text": {
+
+                "headline": "柔軟的她",
+
+                "text": "楊千嬅和丁子高結婚,并誕下7.6磅重的兒子丁進諾Torres。楊千嬅自從組織家庭後，於音樂方面開始減產，更投入電影拍攝工作。"
+
+            }
+
+        }
+
+    ]
+
+}
